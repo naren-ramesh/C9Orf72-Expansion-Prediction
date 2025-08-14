@@ -42,15 +42,15 @@ Note: Raw methylation array data and clinical source files required for DMA are 
 Note: Quality Control and Filtering for raw methylation data was done using methodoology outlined here: 
 https://www.bioconductor.org/packages/release/workflows/vignettes/methylationArrayAnalysis/inst/doc/methylationArrayAnalysis.html
 
-Privacy Notice
+Privacy Notice:
 All included datasets have been stripped of identifiable patient information.
 Source methylation array files and clinical data are excluded in compliance with patient privacy requirements.
 
 ⸻
 
-Citation
+Citation:
 If you use this repository or its methods in your research, please cite appropriately. This study is available on preprint here:
 https://www.biorxiv.org/content/10.1101/2025.03.20.643775v1
 
-Correspondence
+Correspondence:
 Any questions or concerns can be forwarded to naren.ramesh@gmail.com
