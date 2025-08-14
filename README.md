@@ -49,7 +49,8 @@ Source methylation array files and clinical data are excluded in compliance with
 ⸻
 
 Citation
-If you use this repository or its methods in your research, please cite appropriately (add publication DOI or preprint link when available).
+If you use this repository or its methods in your research, please cite appropriately. This study is available on preprint here:
+https://www.biorxiv.org/content/10.1101/2025.03.20.643775v1
 
 Correspondence
 Any questions or concerns can be forwarded to naren.ramesh@gmail.com
